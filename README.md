@@ -1,4 +1,4 @@
-# naukri-job-recommendation
+# Naukri-Job-Recommendation
 
 This repository contains the 'Naukri Job Recommendation' project.
 
